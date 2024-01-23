@@ -1,0 +1,2 @@
+/usr/bin/ar qc libars540_d.a CMakeFiles/ars540_d.dir/src/ARS540_driver.cpp.o
+/usr/bin/ranlib libars540_d.a

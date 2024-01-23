@@ -1,0 +1,6 @@
+#ARS540 driver parameters
+ARS540_driver_parameters:
+  driver_ip: "127.0.0.1"
+  driver_port: "13"
+  radar_ip: "127.0.0.1"
+  radar_post: "46516"

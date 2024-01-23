@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/udp_server.dir/src/simple_udp_server.cpp.o -o udp_server 
